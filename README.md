@@ -1,12 +1,12 @@
 Ansible Script for SSH Key Deploy
 =================================
 
-Author: Mirko Kaiser, http://www.KaiserSoft.net
-Project URL: https://github.com/KaiserSoft/ansible-SSH-Key-Deploy/
-Support the software with Bitcoins !thank you!: 157Gh2dTCkrip8hqj3TKqzWiezHXTPqNrV
-Copyright (C) 2015 Mirko Kaiser
-First created in Germany on 2015-12-04
-License: New BSD License
+Author: Mirko Kaiser, http://www.KaiserSoft.net    
+Project URL: https://github.com/KaiserSoft/ansible-SSH-Key-Deploy/    
+Support the software with Bitcoins !thank you!: 157Gh2dTCkrip8hqj3TKqzWiezHXTPqNrV    
+Copyright (C) 2015 Mirko Kaiser    
+First created in Germany on 2015-12-04    
+License: New BSD License    
 
 Description
 ===========
