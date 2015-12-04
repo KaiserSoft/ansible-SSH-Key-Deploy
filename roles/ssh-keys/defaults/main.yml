@@ -1,0 +1,7 @@
+# default values
+---
+
+# will downloaded the latest Version from https://github.com/KaiserSoft/SSH-Key-Deploy first
+ssh_keys_update: False 
+ssh_keys_url: "https://raw.githubusercontent.com/KaiserSoft/SSH-Key-Deploy/master/ssh-key-deploy.sh"
+
