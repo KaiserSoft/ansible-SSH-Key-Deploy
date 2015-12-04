@@ -22,9 +22,9 @@ ssh_keys_update: True
 Examples
 ========
 
-# Deploy the SSH Keys onto a fresh host. One where your own key is not in authorized_keys yet
+- Deploy the SSH Keys onto a fresh host. One where your own key is not in authorized_keys yet
 $ ansible-playbook -i hosts ssh-deploy.yml --ask-pass
 
-# Deploy the SSH Keys onto a host where you already have ssh key access
+- Deploy the SSH Keys onto a host where you already have ssh key access
 $ ansible-playbook -i hosts ssh-deploy.yml
 
